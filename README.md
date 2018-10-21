@@ -1,0 +1,2 @@
+# users_import_to_wordpress
+This is a simple piece of code which I wrote few months back and then I need it recently for another project so did some cleaning and partial improvements ( its still work in progress ) . I will probably do more updates with time depending on the need of it in future but for now it can easily give you a good idea how to make it work according to your need. Its public so you can use it.
